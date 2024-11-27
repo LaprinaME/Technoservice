@@ -2,7 +2,6 @@
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
-
 namespace Technoservice
 {
     public partial class AdminMenu : Form
